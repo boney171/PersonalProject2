@@ -12,3 +12,4 @@ It is a weather app that let user learn about the weather of a big city in the U
 ## Final product
 ![finalproduct](https://user-images.githubusercontent.com/97133672/163506889-caad3c66-84ba-4811-a6f1-551f909ea4b1.png)
 I'm currently looking for a free weather api to change this into an actual weather app
+Instead of using another API, I'm currently learning webscraping skill to retrieve useful weather data for my app, an update will come soon.
